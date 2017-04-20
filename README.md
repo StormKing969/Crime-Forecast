@@ -1,3 +1,5 @@
-This is still a work-in-progress program. So far it will just take in the data from the .csv file. Then it will convert and plot their occurrence in a specified grid of lengths 331 by 390 onto a .txt file and display their location on the screen. 
+This is still a work-in-progress program. 
 
-In order to make it work you'll have to download a python package called "PyGame". It is available on this website "http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame". Just be sure to download the correct version depend on the python version you are using.
+The Coordinates Program will just take in the data from the .csv file. Then it will convert and plot their occurrence in a specified grid of lengths 331 by 390 onto a .txt file. 
+
+As for the KMean Program, it will use the data and form 2 clusters in which it will try to look for the best centroid in each one. Unfortunately due to the size of the .cvs file, no real centroid will be found.
